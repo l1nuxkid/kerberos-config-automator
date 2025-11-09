@@ -32,7 +32,7 @@ chmod +x configure_krb5.py
 
 ## 📥 Usage
 
-python3 configure_krb5.py nanocorp.htb dc01
+python3 configure_krb5.py fluffy.htb dc01
 
 
 
