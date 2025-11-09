@@ -27,6 +27,18 @@ A Python script to automatically generate and configure `/etc/krb5.conf` for Act
 ```bash
 git clone https://github.com/l1nuxkid/kerberos-config-automator.git
 cd kerberos-config-automator
-chmod +x configure_krb5.py 
+chmod +x configure_krb5.py
+
+
+## 📥 Usage
+
+python3 configure_krb5.py nanocorp.htb dc01
+
+
+
+## 👤 Author
+l1nuxkid
+
+GitHub: @l1nuxkid
 
 
